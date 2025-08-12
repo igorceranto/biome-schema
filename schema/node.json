@@ -9,10 +9,7 @@
         "ignoreUnknown": false
     },
     "formatter": {
-        "enabled": true,
-        "indentStyle": "space",
-        "indentWidth": 2,
-        "semicolons": "asNeeded"
+        "enabled": true
     },
     "linter": {
         "enabled": true,
